@@ -1,6 +1,6 @@
 # systemsensor
 
-This repository contains my “Sistemi Elettronici e Sensori per l'Informatica” course final project
+This repository contains my “Sistemi Elettronici e Sensori per l'Informatica” course final project.
 
 ## Overview
 
